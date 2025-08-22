@@ -41,8 +41,6 @@ cd Student_Management_App
 
 Talking About Personal Stuff
 
-
-
 🌱 Interested in Java Backend Development
 
 💬 Ask me about Java, MySQL, CRUD projects
@@ -51,5 +49,4 @@ Talking About Personal Stuff
 
 ⭐ Show Your Support
 
-If you like this project, give it a star ⭐ on GitHub
-!
+If you like this project, give it a star ⭐ on GitHub !
