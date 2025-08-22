@@ -49,16 +49,6 @@ Talking About Personal Stuff
 
 📫 Reach me at rehank2389773@gmail.com
 
-### 🛠 Languages and Tools:
-<p>
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
-</p>
-
 ⭐ Show Your Support
 
 If you like this project, give it a star ⭐ on GitHub
